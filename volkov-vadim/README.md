@@ -1,2 +1,1 @@
-# Vadim Volkov
-##  (= Trivme)
+# Vadim Volkov   (= Trivme)
