@@ -1,1 +1,1 @@
-# Sergey Troyeglazov
+# qa5-project
